@@ -1,1 +1,1 @@
-web: gunicorn <PythonFileNameWithoutPy>:server
+web: gunicorn CO2_explorer>:server
